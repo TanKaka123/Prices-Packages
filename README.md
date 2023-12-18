@@ -6,6 +6,8 @@
 
 This is a private shop application project built with Next.js. It includes authentication (Next-Auth), Google Sheets integration, and nodemailer for email functionality.
 
+Link google Sheet: https://docs.google.com/spreadsheets/d/1pdAuo3XSgAnTJxYre5etPGbQHosonhW4wVbcOnC-_8U/edit#gid=0
+
 ## Scripts
 * dev: Start the development server (next dev)
 * build: Build the project (next build).
