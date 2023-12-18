@@ -1,38 +1,45 @@
-Shop App
+# Shop App
 
 **Version:** 0.1.0
 
-#Description
+## Description
 
-First, run the development server:
+This is a private shop application project built with Next.js. It includes authentication (Next-Auth), Google Sheets integration, and nodemailer for email functionality.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Scripts
+* dev: Start the development server (next dev)
+* build: Build the project (next build).
+* start: Start the project (next start).
+* lint: Lint the project (next lint).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Dependencies
+* @react-icons/all-files: ^4.1.0
+* google-auth-library: ^9.4.1
+* next: 14.0.4
+* next-auth: ^4.24.5
+* nodemailer: ^6.9.7
+* react: ^18
+* react-dom: ^18
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Dev Dependencies
+* @types/google-spreadsheet: ^4.0.0
+* @types/node: ^20
+* @types/nodemailer: ^6.4.14
+* @types/react: ^18
+* @types/react-dom: ^18
+* autoprefixer: ^10.0.1
+* google-spreadsheet: ^3.3.0
+* postcss: ^8
+* tailwindcss: ^3.3.0
+* typescript: ^5
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Installation
+* Clone the repository.
+* Run npm install to install dependencies.
+* Configure any necessary environment variables.
 
-## Learn More
+## Contributing
+Contributions are welcome! Please follow the guidelines in the CONTRIBUTING.md file.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+This project is private and does not have a public license.
