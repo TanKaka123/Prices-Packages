@@ -39,8 +39,14 @@ Link video Demo: https://youtu.be/2Dg1cVVIzqA
 
 ## Installation
 * Clone the repository.
-* Run npm install to install dependencies.
+* Run `npm install` to install dependencies.
 * Configure any necessary environment variables.
+ 
+## Usage
+* Run `npm run dev` for development.
+* Run` npm run build` to build the project.
+* Run `npm start` to start the project.
+* Run `npm run lint` for linting.
 
 ## Contributing
 Contributions are welcome! Please follow the guidelines in the CONTRIBUTING.md file.
