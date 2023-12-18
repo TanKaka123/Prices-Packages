@@ -17,11 +17,11 @@ Link video Demo: https://youtu.be/2Dg1cVVIzqA
 * lint: Lint the project (next lint).
 
 ## Dependencies
-* @react-icons/all-files: ^4.1.0
-* google-auth-library: ^9.4.1
-* next: 14.0.4
+* @react-icons/all-files: ^4.1.0  => Use to get list of Icons
+* google-auth-library: ^9.4.1  => use to authenticate user to send update data in table google sheet
+* next: 14.0.4    => Nextjs version 14.0.4
 * next-auth: ^4.24.5
-* nodemailer: ^6.9.7
+* nodemailer: ^6.9.7 => Use to send mail 
 * react: ^18
 * react-dom: ^18
 
