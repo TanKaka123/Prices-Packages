@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Basic Package",
+        "thumbnail": "https://www.allresumeservices.com.au/wp-content/uploads/2019/07/BasicPackage.png",
+        "description": "The Basic Package is designed with simplicity in mind, catering to individuals and startups seeking a straightforward solution. This package offers fundamental features at an accessible price point, making it an excellent choice for those just starting their online journey",
+        "prices": 1200,
+        "fieldForm": [
+            {
+                "name": "name",
+                "label": "Name",
+                "type": "text"
+            },
+            {
+                "name": "email",
+                "label": "Email",
+                "type": "text"
+            }
+        ]
+    },
+    {
+        "name": "Standard Package",
+        "thumbnail": "https://www.allresumeservices.com.au/wp-content/uploads/2019/07/Standard-Logo-Design-Package.png",
+        "description": "Step up your online presence with our Standard Package, a versatile solution tailored for small businesses and enterprises. This package not only covers the basics but also introduces an additional layer of sophistication by incorporating a phone number field",
+        "prices": 3500,
+        "fieldForm": [
+            {
+                "name": "name",
+                "label": "Name",
+                "type": "text"
+            },
+            {
+                "name": "email",
+                "label": "Email",
+                "type": "text"
+            },
+            {
+                "name": "phonenumber",
+                "label": "Phone Number",
+                "type": "tel"
+            }
+        ]
+    },
+    {
+        "name": "Premium Package",
+        "thumbnail": "https://www.allresumeservices.com.au/wp-content/uploads/2019/07/premium_package.png",
+        "description": "Unleash the full potential of your online operations with our Premium Package, meticulously crafted for businesses that demand excellence.Unleash the full potential of your online operations with our Premium Package",
+        "prices": 6900,
+        "fieldForm": [
+            {
+                "name": "name",
+                "label": "Name",
+                "type": "text"
+            },
+            {
+                "name": "email",
+                "label": "Email",
+                "type": "text"
+            },
+            {
+                "name": "phonenumber",
+                "label": "Phone Number",
+                "type": "tel"
+            },
+            {
+                "name": "company",
+                "label": "Company",
+                "type": "text"
+            }
+        ]
+    }
+]
